@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @usernamefritters
-- 👀 I’m interested in learning to code to make my job.
-- 🌱 I’m currently learning how to convert many test files into a usable excel sheet
-- 💞️ I’m looking to collaborate on the basics of coding. I'm an old man embarking on a new journey
+- 👀 I’m interested in learning to code to make my job easier.
+- 🌱 I’m currently learning how to convert many test files into a usable excel sheet.
+- 💞️ I’m looking to collaborate on the basics of coding. I'm an old man embarking on a new journey.
 - 📫 How to reach me fritters@cisco.com
 
 <!---
